@@ -1,0 +1,10 @@
+html body{
+
+}
+.container{
+    
+    margin: auto 400px;
+    background: rgb(218, 7, 17);outline: solid 1px;
+    margin-bottom: 5px;
+    
+}
