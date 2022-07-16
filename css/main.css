@@ -1,0 +1,11 @@
+html body{
+
+}
+.container{
+text-align: center;
+outline: solid 2px;
+width: 600px;
+margin: auto;
+margin-bottom: 40px;
+
+}
